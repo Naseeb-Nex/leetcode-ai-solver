@@ -41,3 +41,7 @@ Works with the [`gh` agent skill](https://github.com/cli/cli) — `gh skill inst
 ## License
 
 MIT
+
+## About Section
+
+AI-assisted LeetCode practice lab by [Naseeb-Nex](https://github.com/Naseeb-Nex). Two modes: refine your own solution, or generate a fresh submit-ready one. Every solution ships with an animated HTML dry-run visualization before submission.
